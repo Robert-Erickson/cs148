@@ -16,10 +16,10 @@
             print '<li><a href="tables.php">Display Tables</a></li>';
         }
         
-        if ($path_parts['filename'] == "populate-table.php") {
-            print '<li class="activePage">Populate Tables</li>';
+        if ($path_parts['filename'] == "q01") {
+            print '<li class="activePage">Teacher Query</li>';
         } else {
-            print '<li><a href="populate-table.php">Populate Tables</a></li>';
+            print '<li><a href="q01.php">Teacher Query</a></li>';
         }
         
         ?>

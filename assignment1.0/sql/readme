@@ -1,0 +1,1 @@
+mysql -h webdb.uvm.edu -p -u rerickso_admin RERICKSO_UVM_Courses < file
